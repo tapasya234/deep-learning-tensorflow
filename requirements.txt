@@ -1,0 +1,13 @@
+wheel
+numpy
+scipy
+seaborn
+matplotlib
+matplotlib-inline
+scikit-image
+scikit-learn
+pandas
+ucimlrepo
+requests
+tensorflow
+keras
