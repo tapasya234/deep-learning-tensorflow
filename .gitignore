@@ -206,5 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Scratch files used for quizzes
+# Keras saved models
+*.keras
+
+# Scratch files
 quizzes/
+setup/
