@@ -212,3 +212,6 @@ __marimo__/
 # Scratch files
 quizzes/
 setup/
+
+# Dataset files
+dataset/
