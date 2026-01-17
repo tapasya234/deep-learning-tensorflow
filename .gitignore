@@ -215,3 +215,4 @@ setup/
 
 # Dataset files
 dataset/
+*.zip

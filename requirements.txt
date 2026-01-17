@@ -11,3 +11,5 @@ ucimlrepo
 requests
 tensorflow
 keras
+opencv-contrib-python
+albumentations
