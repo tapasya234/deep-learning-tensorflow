@@ -13,3 +13,5 @@ tensorflow
 keras
 opencv-contrib-python
 albumentations
+tensorflow_hub
+transformers
